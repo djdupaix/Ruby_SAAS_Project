@@ -1,10 +1,9 @@
 == README
 
-Coder Manual Project Application
-Subscription-based web application
-http://codermanual.com
+Basic Ruby Application
+Provides Subscription-based Service to Connect Developers and Companies
 
-Things you may want to cover:
+Basic info:
 
 * Ruby version
 
@@ -22,8 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
+This document was prepared using the rdoc markup language in order to run
 <tt>rake doc:app</tt>.
